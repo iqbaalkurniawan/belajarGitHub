@@ -1,1 +1,3 @@
 # belajarGitHub
+
+lorem ipsum
