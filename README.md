@@ -1,3 +1,3 @@
 # belajarGitHub
 
-lorem ipsum
+kita akan mempelajari cara penggunaan github
